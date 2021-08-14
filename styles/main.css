@@ -457,6 +457,7 @@ header.masthead h1 {
 .navbar__logo {
 	height: 100%;
 	color: var(--color-pure-white);
+	border: none !important;
 }
 
 .navbar__logo a:hover:not(:active) {
@@ -471,6 +472,7 @@ header.masthead h1 {
 	text-decoration: none;
 	font-family: 'Agency FB',sans-serif;
 	font-size: 40px;
+	border: none !important;
 }
 
 .navbar__name-mobile {
@@ -480,11 +482,13 @@ header.masthead h1 {
 	color: var(--color-pure-white);
 	font-family: 'Agency FB',sans-serif;
 	font-size: 40px;
+	border: none !important;
 }
 
 
 .navbar__toggle {
 	cursor: pointer;
+	border: none !important;
 }
 
 .navbar__toggle > i {
@@ -527,11 +531,31 @@ header.masthead h1 {
 	text-decoration: none;
 	color: var(--color-pure-white);
 	border-bottom: 1px solid rgba(255,255,255,0.1);
+
 }
+
+.nav_icon {
+	font-weight: 500;
+	padding: 16px 0;
+	text-decoration: none;
+	color: var(--color-pure-white);
+	border:none !important;
+}
+
+
+
+
+.nav_icon:hover:not(:active) {
+	opacity: 0.5;
+	color: orangered;
+}
+
+
 
 .nav__link:hover:not(:active) {
 	opacity: 0.5;
 }
+
 
 
 
@@ -589,6 +613,7 @@ header.masthead h1 {
 	color: var(--color-gray);
 	font-family: 'Agency FB',sans-serif;
 	font-size: 20px;
+	border: none !important;
 }
 
 
@@ -625,6 +650,7 @@ header.masthead h1 {
 
 	.navbar__toggle {
 		display: none;
+		border: none !important;
 	}
 
 	.nav {
@@ -638,11 +664,12 @@ header.masthead h1 {
 	}
 
 	.nav__link {
-		border-bottom: none;
+		border: none !important;
 	}
 
 	.nav__link {
 		margin-right: 24px;
+		border: none !important;
 	}
 
 	.navbar__name-full {
@@ -653,6 +680,7 @@ header.masthead h1 {
 		color: var(--color-pure-white);
 		font-family: 'Agency FB',sans-serif;
 		font-size: 40px;
+		border: none !important;
 	}
 
 
@@ -665,6 +693,7 @@ header.masthead h1 {
 		text-decoration: none;
 		color: var(--color-pure-white);
 		font-family: 'Agency FB',sans-serif;
+		border: none !important;
 	}
 
 	.footer__name-full {
