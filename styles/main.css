@@ -70,6 +70,7 @@ body {
 	border-radius: 0.25em;
 	max-width: 25%;
 	height: auto;
+	cursor: pointer;
 }
 
 .img-thumbnail-small {
@@ -81,6 +82,7 @@ body {
 	border-radius: 0.25em;
 	max-width: 50%;
 	height: auto;
+	cursor: pointer;
 }
 
 .img-thumbnail-medium {
@@ -92,6 +94,7 @@ body {
 	border-radius: 0.25em;
 	max-width: 65%;
 	height: auto;
+	cursor: pointer;
 }
 .img-thumbnail-large {
 	padding: 0.1em;
@@ -102,6 +105,7 @@ body {
 	border-radius: 0.25em;
 	max-width: 75%;
 	height: auto;
+	cursor: pointer;
 }
 
 .img-thumbnail-xl {
@@ -111,6 +115,7 @@ body {
 	border-radius: 0.25em;
 	max-width: 100%;
 	height: auto;
+	cursor: pointer;
 }
 
 
@@ -616,6 +621,8 @@ header.masthead h1 {
 
 @media screen and (min-width: 767px) {
 	/* for screens above the min-width size(767px) */
+
+
 	.navbar__toggle {
 		display: none;
 	}
