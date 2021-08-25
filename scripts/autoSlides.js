@@ -24,5 +24,5 @@ function AutoSlides(n) {
 
     slides[autoSlideIndex - 1].style.display = "block";
 
-    setTimeout(AutoSlides, 5000); // time out for passed # of seconds
+    setTimeout(AutoSlides, 3000); // time out for passed # of seconds
 }
