@@ -1,0 +1,1 @@
+Scripts for embedded programming.These are mostly the general use files I wrote working at an internship.
