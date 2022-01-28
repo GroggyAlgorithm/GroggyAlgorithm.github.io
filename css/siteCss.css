@@ -43,12 +43,49 @@
 .hide {
     animation: fade-out 0s forwards;
     -webkit-animation: fade-out 0s forwards;
+    display: none;
 }
+
+.project_slides_container {
+	position:relative;
+	height:auto;
+    
+}
+
+.project_slides {
+    margin-top: 1%;
+    overflow: hidden;
+    height:auto;
+}
+
+.projects-section .color_bar {
+    padding: 0rem 0 1rem 0;
+    
+    border-bottom: 0.5rem solid #64a19d;
+}
+
+
+
+@media (min-width: 992px) {
+    .projects-section .color_bar {
+        padding: 5rem 1rem 5rem 0;
+        border-bottom: 0;
+        border-right: 0.5rem solid #64a19d;
+    }
+
+    .project_slides {
+        margin-left: 1%;
+        overflow: hidden;
+        height:auto;
+    }
+}
+
 
 
 .show {
     animation: fade-in 0s forwards;
     -webkit-animation: fade-in 0s forwards;
+    display: block;
 }
 
 
@@ -81,6 +118,21 @@
     -webkit-animation: fade-in-out 1s forwards infinite;
 
 }
+
+
+.bottom_blue {
+    padding: 0 2rem 0 2rem;
+    border-bottom: 0.5rem solid #64a19d;
+}
+
+
+.right_blue {
+    padding: 5rem 1rem 5rem 0;
+    
+    border-right: 0.5rem solid #64a19d;
+}
+
+
 
 
 @keyframes fade-in {

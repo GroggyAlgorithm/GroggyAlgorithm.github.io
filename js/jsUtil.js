@@ -168,7 +168,7 @@ window.addEventListener('DOMContentLoaded', event => {
     
     
 
-    var projectSectionVisible = true;
+    
 
     function showThings() {
 
@@ -188,6 +188,12 @@ function blinkArrows() {
     autoSlideShowIndex2 = autoSlideShow(autoSlideShowIndex2,"arrow_next_projects");
 }
 
+var projectIndex = 0;
+
+function projectSlides() {
+    projectIndex = autoSlideShow(projectIndex,"project_slides");
+}
+
 var titleIndex1 = 0;
 var titleIndex2 = 0;
 
@@ -200,5 +206,8 @@ function moveThroughTitles() {
 moveThroughTitles();
 window.setInterval(moveThroughTitles,3000);
 
-blinkArrows();
-window.setInterval(blinkArrows,4000);
+
+
+
+projectSlides();
+window.setInterval(projectSlides,3500);
