@@ -1,0 +1,351 @@
+[
+    {
+        "title": "Automated Indoor Plant Manager",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Arduino Plant Care",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "embedded", "arduino", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Bluetooth Speaker and LED Visualizer",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Bluetooth speaker with LED Matrix Visualizer",
+        "longDescription": "Bluetooth music, Fast Fourier Transform, Led's with a nice frame. What's not to love?",
+        "categories" : ["hobby", "embedded", "arduino", "esp32", "bluetooth", "iot", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Bluetooth Speaker and Ferro Fluid Visualizer",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Bluetooth audio played with a Sci-Fi visualizer",
+        "longDescription": "Inspired by Science fiction and horror, what cooler way can you play bluetooth audio than with visualizing it using an electromagnet, ferro fluid, and an appealing design?<br><br>Update in progress :(",
+        "categories" : ["hobby", "embedded", "arduino", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "AI Ouija Board",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Using AI to respond...on a ouija board!",
+        "longDescription": "A project perfect for holloween, I've created what might be one of the slowest ways to communicate with AI.<br><br>Update in progress :(",
+        "categories" : ["hobby", "ai", "embedded", "arduino", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Op-Amp EMF Detector",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Detecting EMF's with an antenna and an op-amp",
+        "longDescription": "This device I use around my house and my lab, somewhat frequently, to allow me to detect any unknown wiring and electro magnetic fields.<br><br>Update in progress :(",
+        "categories" : ["hobby", "hardware"]
+    },
+    {
+        "title": "Op-Amp Perceptron Fault Detection",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "The Perceptron Neural Network Architecture to accurately detect circuit faults while providing a singular design for a variety of applications",
+        "longDescription": "This device was designed using the \"Perceptron\" design using op-amp circuits. The training takes place through the weights and bias, allowing the feedback to create a neuronal oscillator so that within appropriate range, a 555 watchdog is on but once the perceptron is stable high or stable low, the watchdog disengages and disables the device.<br><br>Update in progress :(",
+        "categories" : ["Featured", "ai", "hardware"]
+    },
+    {
+        "title": "High Performance HAL",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Professional Hardware Abstraction Layer with a focus on performance",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["Featured", "work", "embedded", "firmware", "software"]
+    },
+    {
+        "title": "The Cincinnati Event",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "An ARG style web experience",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software", "web"]
+    },
+    {
+        "title": "Puzzle Box - The Anomoly",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "embedded", "arduino", "hardware", "firmware", "software", "web"]
+    },
+    {
+        "title": "Automated Pottery Moisture Control Box",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "embedded", "arduino", "hardware", "firmware", "software", "bluetooth", "ota"]
+    },
+    {
+        "title": "Procedural Language Creation",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software"]
+    },
+    {
+        "title": "Procedural Civilization Creation",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software"]
+    },
+    {
+        "title": "3D Procedural Planet Generator",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software"]
+    },
+    {
+        "title": "Game Design - Traffic Kings",
+        "file": "",
+        
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software", "game"]
+    },
+    {
+        "title": "Game Design - Procedural Hack N' Slash",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software", "game"]
+    },
+    {
+        "title": "Boids",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software", "game"]
+    },
+    {
+        "title": "AVR 8bit Boids",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "embedded", "avr", "firmware", "software"]
+    },
+    {
+        "title": "Low Level Bitmap Animation",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["work", "embedded", "avr", "firmware", "software"]
+    },
+    {
+        "title": "Machine Learning Number Prediction",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software", "ai", "ml"]
+    },
+    {
+        "title": "Fun AI Face Visualizer",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "software", "ai", "web"]
+    },
+    {
+        "title": "Retro AI Console",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "ai", "embedded", "hardware", "firmware", "software", "bluetooth", "ota"]
+    },
+    {
+        "title": "8-bit AVR Preemptive Task Scheduler",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["Featured", "hobby", "work", "embedded", "avr", "firmware", "software", "async", "threading"]
+    },
+    {
+        "title": "AVR Signal Editor",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "avr", "embedded", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Musical Purge Valve",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "avr", "arduino", "embedded", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Android Datasheet and Production Manual Viewer",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["work", "mobile", "android", "software"]
+    },
+    {
+        "title": "Android Photosensitivity Screen Blocker",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "mobile", "android", "software"]
+    },
+    {
+        "title": "Android Color to Paint Mix Decoder",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "mobile", "android", "software"]
+    },
+    {
+        "title": "Eyeball Door Knocker",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "arduino", "embedded", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Pinball with Procedural Layout Shifting",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "esp32", "stm32", "arduino", "embedded", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Helping Hands 2.0 - The Robot who just holds what you hand it",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby", "esp32", "stm32", "arduino", "embedded", "hardware", "firmware", "software"]
+    },
+    {
+        "title": "Gen. 5 Smarter Car Training Systems",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["Featured", "work", "bluetooth", "avr","esp32","stm32","web", "firmware", "software", "hardware"]
+    },
+    {
+        "title": "1840",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["Featured", "work", "bluetooth", "avr","esp32","stm32","web", "firmware", "software", "hardware"]
+    },
+    {
+        "title": "HVAC Trainer",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Mobile HVAC Training System",
+        "longDescription": "<br><br>Working at ATech Training, this system was designed to effective train users on the functions, faults, and diagnostics associated with air conditioning systems.<br><br> Designing this system had challanges. First off, the OEM components were designed for a car with horsepower in the hundreds with some components only using fuses that reach 80 amps... <br><br><br><br>",
+        "categories" : ["Featured", "work", "avr", "firmware", "software", "hardware", "SPI", "USART","Serial","PWM", "DAC", "ADC","data aquisition","network","product design","eagle","schematics","PCB", "motor control","power optimizaiton","automotive"]
+    },
+    {
+        "title": "555 Watchdog Relay",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["Featured", "work", "hobby", "hardware", "555"]
+    },
+    {
+        "title": "Selenium Gambler",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby"]
+    },
+    {
+        "title": "Face Tracker ESP32 Arm",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby"]
+    },
+    {
+        "title": "ESP32 Arm Web Control",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby"]
+    },
+    {
+        "title": "Python Busy Looking Screen",
+        "file": "",
+        "downloadPath": "",
+        "viewPath": "",
+        "description": "Update in progress :(",
+        "longDescription": "<br><br>Update in progress :(",
+        "categories" : ["hobby"]
+    }
+]

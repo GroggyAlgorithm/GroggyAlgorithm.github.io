@@ -1,0 +1,16 @@
+<h2 class="text-white mb-4">About me</h2>
+<p class="text-white-50">
+    My name's Tim. I am a passionate R&D Engineer with 5+ years experience designing and delivering firmware, hardware, and full-stack software solutions for electrical and automotive training systems. 
+    <br>
+    <br>
+    <br>
+    <br>
+    Open to worldwide relocation, especially the Seattle Washington area.
+    <hr>
+    <br>
+</p>
+<a href="https://github.com/GroggyAlgorithm">Visit my GitHub</a>
+
+<p class="text-white-50">
+    or continue scrolling for some more information!
+</p>

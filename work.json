@@ -1,0 +1,13 @@
+[
+    {
+        "company": "ATech Training Inc.",
+        "companyLink": "https://www.atechtraining.com/",
+        "title": "R&D - Software and Embedded Systems Engineer",
+        "date": "2020 - Present",
+        "titleDescription": "Creates and designs training systems for automotive, electrical, and related fields. Handles all software related to the business. Leads, trains, and mentors co-ops and new engineers.",
+        "titleImage":"",
+        "descriptionImage":"",
+        "longDescription": "At ATech, I design and develop cross platform software applications, embedded applications, course material, and training technologies for various STEM fields. This requires integrating with and simulating various systems in vehicles, creating safety critical designs, and more.<br><br>Responsibilities<br><br>Led cross-functional engineering projects, mentoring co-ops and overseeing contractors to deliver complex firmware, hardware, and software systems. <br><br>Developed firmware and hardware for advanced electrical and automotive training systems.<br><br>Developed full-stack solutions (Android, web, and desktop) including internal tools that automated customer lead generation for sales.<br><br>Developed firmware and hardware motor controls, sensor analysis, fault protection, fault detection, and system communications.<br><br>Developed award-nominated HVAC training system, lowering current draw by 90%, the required horsepower by 98.5%, and allowing the design to be operated on standard 20A outlets in classroom settings.<br><br>Implemented company-wide engineering practices for  version control (Git/Gitflow), Azure DevOps, and Microsoft Teams, driving collaboration and productivity.<br><br>Introduced SMT components and modernized PCB design, improving product margins, build time, and long-term maintainability.<br><br>Built highly optimized hardware abstraction layers (HALs) and modular firmware architectures enabling faster development and system scalability.<br><br>Led initiative for legacy design updates, addressed reliance on obsolete components, and updated device architecture from 8051 to modern 8 bit and 32 bit devices.<br><br>Partnered with universities to research and develop new training solutions, strengthening ties between academia and industry.<br><br>Performed code reviews and debugging support, ensuring product reliability and performance.<br><br>Handled all relative department interviews, building a skilled team with diverse expertise."
+    }
+    
+]
