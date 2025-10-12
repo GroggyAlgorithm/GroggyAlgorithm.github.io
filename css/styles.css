@@ -65,7 +65,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #212529;
 }
 
 *,
@@ -11555,6 +11555,7 @@ body {
   letter-spacing: 0.15rem;
   border: 0;
 }
+
 
 .masthead {
   position: relative;
