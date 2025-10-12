@@ -45,7 +45,7 @@ function getPosition(el) {
     var yPos = 0;
 
     while (el) {
-    if (el.tagName == "BODY") {
+    if (el.tagName == "body") {
         // deal with browser quirks with body/window/document and page scroll
         var xScroll = el.scrollLeft || document.documentElement.scrollLeft;
         var yScroll = el.scrollTop || document.documentElement.scrollTop;
@@ -117,19 +117,7 @@ var showSection = function (strQuerySelectorStart, strQuerySelectorEnd, strSelec
     var positionStart = getPosition(startPoint);
     var endPosition = getPosition(endPoint);
 
-    if(window.scrollY < endPosition.y) {
-        if(selectedQuery.classList.contains('hide-fade') == false) {
-            selectedQuery.classList.add('hide-fade');
-            // alert("Removed show-fade");
-            
-        }
-        if(selectedQuery.classList.contains('show-fade-4s') == true) {
-            selectedQuery.classList.remove('show-fade-4s');
-        }
-        
-        sectionShown = false;
-    }
-    else if (window.scrollY > positionStart.y) {
+    if (window.scrollY > positionStart.y && window.scrollY < endPosition.y) {
 
         if(selectedQuery.classList.contains('show-fade-3s') == false) {
             selectedQuery.classList.add('show-fade-3s');
@@ -141,7 +129,8 @@ var showSection = function (strQuerySelectorStart, strQuerySelectorEnd, strSelec
         sectionShown = true;
         
 
-    } else {
+    } 
+    else {
         
         
         if(selectedQuery.classList.contains('hide-fade') == false) {
@@ -163,6 +152,8 @@ var showSection = function (strQuerySelectorStart, strQuerySelectorEnd, strSelec
 };
 
 
+
+
 window.addEventListener('DOMContentLoaded', event => {
     
     
@@ -172,8 +163,9 @@ window.addEventListener('DOMContentLoaded', event => {
 
     function showThings() {
 
-        showSection('#showXp','#showXp','#work');
-        showSection('#projectsShowPoint','#projectsShowPoint','#projects');
+        showSection('#beginShowWork','#endShowWork','#work');
+        // showSection('#showXp','#showXp','#work');
+        showSection('#beginShowProjects','#endShowProjects','#projectsSection');
     }
     document.addEventListener('scroll', showThings);
     showThings();
@@ -209,5 +201,5 @@ window.setInterval(moveThroughTitles,3000);
 
 
 
-projectSlides();
-window.setInterval(projectSlides,3500);
+// projectSlides();
+// window.setInterval(projectSlides,3500);
